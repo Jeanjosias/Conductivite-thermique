@@ -1,0 +1,4 @@
+Ameliorer l'interface
+Donner au code des fichier brut (qui des decalages); determiner le point
+
+L'ancian code ne charge que les temperature1 dans les fichier de temperatuer. Cela est il normal?
